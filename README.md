@@ -44,4 +44,6 @@ Here's what's in this repository
 
 > testA.out - expected output for A version
 
+**Style**: Wrap lines to **80 characters**, put good **comments** at the top (name, description, how the project went for you) and anywhere else appropriate, clear **variable names** in camel case, and consistent **indentation** (3-4 spaces).
+
 Submit to YOUR **CodePost** account.
