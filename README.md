@@ -45,6 +45,3 @@ Here's what's in this repository
 > testA.out - expected output for A version
 
 Submit to YOUR **CodePost** account.
-
-NOTE: if you fail to submit comments to jotform, you will lose points
-
